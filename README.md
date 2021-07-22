@@ -1,4 +1,4 @@
-# BmiCalculator
+# BmiCalculator 💪
 
 I have made this app while learning flutter. In this application i have learned how to use cutomisable widgets and how to acheive a beautiful user interface designs usig it. This is the power of flutter you get to make a complex ui's very easily.
 
