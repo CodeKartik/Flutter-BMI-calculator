@@ -1,6 +1,15 @@
 # BmiCalculator
 
-A new Flutter project.
+I have made this app while learning flutter. In this application i have learned how to use cutomisable widgets and how to acheive a beautiful user interface designs usig it. This is the power of flutter you get to make a complex ui's very easily.
+
+
+#### Feature
+- BMI calculation
+
+#### Snapshot 
+![bmi-calc-demo](https://user-images.githubusercontent.com/71598142/126640715-2ea36009-ea5d-4ff4-aa0d-c48592caca99.gif)
+
+gif credit @londonappbrewery
 
 ## Getting Started
 
